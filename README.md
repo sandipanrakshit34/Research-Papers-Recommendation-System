@@ -1,4 +1,7 @@
 # Research-Papers-Recommendation-System-and-Subject-Area-Prediction-Using-Deep-Learning-and-LLMS
+
+<center> <img src = "https://github.com/sandipanrakshit34/Research-Papers-Recommendation-System/blob/main/Structure-of-a-ai-recommend-system.png" width = 100%>
+  
 # Overview
 This repository hosts a machine learning project that encompasses two key functionalities: a research papers recommendation system and subject area prediction. The goal of the project is to provide users with tailored recommendations based on their preferences and to predict the subject area of research papers.
 
@@ -23,8 +26,11 @@ Recommending top K papers.
 The deep learning model improved recommendations, yielding an accuracy of 99%.
 Subject Area Prediction
 
-License
-This project is licensed under the NOOR SAEED
+## Author
+
+- [@sandipanrakshit34](https://github.com/sandipanrakshit34)
+
+##
 
 Acknowledgments
 Mention any credits or acknowledgments for third-party tools, libraries, or resources used in the project.
